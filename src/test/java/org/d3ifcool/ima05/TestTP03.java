@@ -12,10 +12,16 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class TestTP03 {
 
     private static final String[] INPUT = {
-            // Isi input di sini. Lihat contoh TestJurnal01.
+            "Persegi\n3",
+			"Persegi Panjang\n2 3",
+			"Segitiga\n3 4",
+			"Lingkaran\14"
     };
     private static final String[] OUTPUT = {
-            // Isi input di sini. Lihat contoh TestJurnal01.
+            "9 12",
+			"6 10",
+			"6 12",
+			"153.86 43.96"
     };
 
     @Test

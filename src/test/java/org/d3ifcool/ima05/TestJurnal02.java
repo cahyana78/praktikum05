@@ -9,10 +9,11 @@ import java.io.*;
 public class TestJurnal02 {
 
     private static final String[] INPUT = {
-            // Isi input di sini. Lihat contoh TestJurnal01.
+            "Senin\n2",
+			"Rabu\n10"
     };
     private static final String[] OUTPUT = {
-            // Isi input di sini. Lihat contoh TestJurnal01.
+            "Rabu","Sabtu"
     };
 
     @Test

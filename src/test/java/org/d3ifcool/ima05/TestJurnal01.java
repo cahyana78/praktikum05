@@ -9,12 +9,12 @@ import java.io.*;
 public class TestJurnal01 {
 
     private static final String[] INPUT = {
-            "12",
-            "13"
+            "1",
+            "6"
     };
     private static final String[] OUTPUT = {
-            "Kelipatan enam",
-            "Bukan kelipatan enam"
+            "Senin",
+            "Sabtu"
     };
 
     @Test

@@ -9,10 +9,13 @@ import java.io.*;
 public class TestJurnal03 {
 
     private static final String[] INPUT = {
-            // Isi input di sini. Lihat contoh TestJurnal01.
+            "1 + 3",
+			"3 - 1",
+			"4 * 3",
+			"2 / 3"
     };
     private static final String[] OUTPUT = {
-            // Isi input di sini. Lihat contoh TestJurnal01.
+            "4","2","12","0.6666667"
     };
 
     @Test
