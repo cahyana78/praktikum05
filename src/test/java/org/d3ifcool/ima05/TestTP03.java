@@ -15,7 +15,7 @@ public class TestTP03 {
             "Persegi\n3",
 			"Persegi Panjang\n2 3",
 			"Segitiga\n3 4",
-			"Lingkaran\14"
+			"Lingkaran\n14"
     };
     private static final String[] OUTPUT = {
             "9 12",
